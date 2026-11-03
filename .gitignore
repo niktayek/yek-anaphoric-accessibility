@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+*~
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Model and package caches
+.cache/
+huggingface/
+
+# Per-model English summaries written by reruns (stacked in english_all_models_summary.csv)
+english/results/english_discourse_*_summary.csv
+
+# Generated Markdown reports
+results/primary_pll_word_l2r/whole_continuation/*_report.md
+results/robustness_standard_pll/whole_continuation/*_report.md
+results/primary_pll_word_l2r/span_controls/YEK_SPAN_CONTROL_REPORT.md
+results/robustness_standard_pll/span_controls/YEK_SPAN_CONTROL_REPORT.md
+results/diagnostics/

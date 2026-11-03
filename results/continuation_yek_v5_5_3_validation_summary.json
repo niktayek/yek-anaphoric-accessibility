@@ -1,0 +1,266 @@
+{
+  "validated_at_utc": "2026-11-03T13:37:15.957176+00:00",
+  "input_csv": "stimuli/continuation_yek_v5_5_3_same_np_smoothing_48.csv",
+  "output_json": "results/continuation_yek_v5_5_3_validation_summary.json",
+  "total_rows": 96,
+  "unique_item_ids": 48,
+  "checks": {
+    "row_and_item_count": {
+      "pass": true,
+      "expected_rows": 96,
+      "actual_rows": 96,
+      "expected_unique_item_ids": 48,
+      "actual_unique_item_ids": 48
+    },
+    "pairing_one_bare_one_yek": {
+      "pass": true,
+      "violations": []
+    },
+    "context_only_yek_insertion": {
+      "pass": true,
+      "violations": []
+    },
+    "paired_design_fields_match": {
+      "pass": true,
+      "violations": []
+    },
+    "no_standalone_ra_in_context": {
+      "pass": true,
+      "violations": []
+    },
+    "object_appears_in_context": {
+      "pass": true,
+      "violations": []
+    },
+    "verb_appears_in_context": {
+      "pass": true,
+      "violations": []
+    },
+    "allowed_object_anaphor_types_only": {
+      "pass": true,
+      "violations": []
+    },
+    "same_np_marker_target_and_full_np_prefix": {
+      "pass": true,
+      "violations": []
+    },
+    "demonstrative_np_marker_target_and_full_np_prefix": {
+      "pass": true,
+      "violations": []
+    },
+    "no_subject_name_in_object_continuation": {
+      "pass": true,
+      "violations": []
+    },
+    "verb_balance_4_total_2_2_split": {
+      "pass": true,
+      "violations": []
+    },
+    "no_exact_subject_continuation_repeats": {
+      "pass": true,
+      "violations": []
+    },
+    "no_exact_object_continuation_repeats": {
+      "pass": true,
+      "violations": []
+    },
+    "object_domain_nonempty": {
+      "pass": true,
+      "violations": []
+    }
+  },
+  "counts": {
+    "rows_by_condition": {
+      "bare": 48,
+      "yek": 48
+    },
+    "rows_by_anaphor_type": {
+      "same_np": 48,
+      "demonstrative_np": 48
+    },
+    "item_verbs_bare_only": {
+      "خرید": 4,
+      "انتخاب کرد": 4,
+      "آورد": 4,
+      "ساخت": 4,
+      "پخت": 4,
+      "کاشت": 4,
+      "چید": 4,
+      "بست": 4,
+      "باز کرد": 4,
+      "تمیز کرد": 4,
+      "رنگ کرد": 4,
+      "آماده کرد": 4
+    },
+    "item_object_domains_bare_only": {
+      "kitchenware": 2,
+      "personal_item": 2,
+      "home_object": 7,
+      "material_sample": 1,
+      "design_object": 2,
+      "decision_object": 1,
+      "food_container": 1,
+      "home_textile": 1,
+      "tool": 1,
+      "craft": 2,
+      "furniture": 3,
+      "food": 8,
+      "garden": 4,
+      "dining_item": 2,
+      "store_object": 1,
+      "setup": 1,
+      "clothing": 4,
+      "container": 3,
+      "hardware": 2
+    },
+    "item_verb_anaphor_split_bare_only": {
+      "آماده کرد": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "آورد": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "انتخاب کرد": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "باز کرد": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "بست": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "تمیز کرد": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "خرید": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "رنگ کرد": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "ساخت": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "پخت": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "چید": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      },
+      "کاشت": {
+        "same_np": 2,
+        "demonstrative_np": 2
+      }
+    }
+  },
+  "review_checks": {
+    "subject_object_continuation_content_overlap": {
+      "candidate_count": 0,
+      "candidates": []
+    },
+    "object_domain_distribution_bare_only": {
+      "counts": {
+        "kitchenware": 2,
+        "personal_item": 2,
+        "home_object": 7,
+        "material_sample": 1,
+        "design_object": 2,
+        "decision_object": 1,
+        "food_container": 1,
+        "home_textile": 1,
+        "tool": 1,
+        "craft": 2,
+        "furniture": 3,
+        "food": 8,
+        "garden": 4,
+        "dining_item": 2,
+        "store_object": 1,
+        "setup": 1,
+        "clothing": 4,
+        "container": 3,
+        "hardware": 2
+      },
+      "by_anaphor_type": {
+        "clothing": {
+          "same_np": 1,
+          "demonstrative_np": 3
+        },
+        "container": {
+          "same_np": 2,
+          "demonstrative_np": 1
+        },
+        "craft": {
+          "same_np": 1,
+          "demonstrative_np": 1
+        },
+        "decision_object": {
+          "same_np": 1
+        },
+        "design_object": {
+          "demonstrative_np": 2
+        },
+        "dining_item": {
+          "same_np": 1,
+          "demonstrative_np": 1
+        },
+        "food": {
+          "same_np": 4,
+          "demonstrative_np": 4
+        },
+        "food_container": {
+          "same_np": 1
+        },
+        "furniture": {
+          "demonstrative_np": 3
+        },
+        "garden": {
+          "same_np": 2,
+          "demonstrative_np": 2
+        },
+        "hardware": {
+          "same_np": 1,
+          "demonstrative_np": 1
+        },
+        "home_object": {
+          "same_np": 5,
+          "demonstrative_np": 2
+        },
+        "home_textile": {
+          "demonstrative_np": 1
+        },
+        "kitchenware": {
+          "same_np": 1,
+          "demonstrative_np": 1
+        },
+        "material_sample": {
+          "same_np": 1
+        },
+        "personal_item": {
+          "demonstrative_np": 1,
+          "same_np": 1
+        },
+        "setup": {
+          "demonstrative_np": 1
+        },
+        "store_object": {
+          "same_np": 1
+        },
+        "tool": {
+          "same_np": 1
+        }
+      }
+    }
+  },
+  "all_required_checks_pass": true
+}

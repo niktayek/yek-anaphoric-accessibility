@@ -1,0 +1,7 @@
+{
+  "model_id": "facebook/xglm-2.9B",
+  "model_key": "xglm_2_9b",
+  "device": "mps",
+  "n_condition_rows": 96,
+  "n_items": 48
+}

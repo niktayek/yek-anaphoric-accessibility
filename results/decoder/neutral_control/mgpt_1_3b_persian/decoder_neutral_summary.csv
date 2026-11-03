@@ -1,0 +1,2 @@
+decoder_model_key,decoder_model_id,n,mean_delta,median_delta,ci_low,ci_high,prop_positive,min,max,token_count_bare_min,token_count_bare_max,token_count_yek_min,token_count_yek_max,token_count_mismatch_n
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,48,0.15924178063869476,0.16068410873413086,0.13596895337104797,0.18410120904445648,0.9791666666666666,-0.003556966781616211,0.41306471824645996,10,10,10,10,0

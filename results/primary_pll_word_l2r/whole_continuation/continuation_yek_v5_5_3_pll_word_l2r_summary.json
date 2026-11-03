@@ -1,0 +1,794 @@
+{
+  "experiment": "continuation_yek_v5_5_3_48item",
+  "input_csv": "stimuli/continuation_yek_v5_5_3_same_np_smoothing_48.csv",
+  "n_rows": 288,
+  "n_item_ids": 48,
+  "models": {
+    "mbert": {
+      "n_items": 48,
+      "mean_delta_margin": 0.21745270112604317,
+      "proportion_delta_margin_positive": 0.75,
+      "bootstrap95_mean_delta_margin": {
+        "low": 0.12026861012829913,
+        "high": 0.31456595040195817
+      },
+      "bootstrap95_prop_delta_positive": {
+        "low": 0.625,
+        "high": 0.875
+      },
+      "mean_bare_margin": 0.15478515530924705,
+      "mean_yek_margin": 0.37223785643529017,
+      "mean_delta_prior_margin": 0.0,
+      "breakdown_by_object_anaphor_type": [
+        {
+          "object_anaphor_type": "demonstrative_np",
+          "n_items": 24,
+          "mean_delta_margin": 0.2580139891952775,
+          "prop_delta_positive": 0.8333333333333334
+        },
+        {
+          "object_anaphor_type": "same_np",
+          "n_items": 24,
+          "mean_delta_margin": 0.17689141305680886,
+          "prop_delta_positive": 0.6666666666666666
+        }
+      ],
+      "breakdown_by_object_domain": [
+        {
+          "object_domain": "clothing",
+          "n_items": 4,
+          "mean_delta_margin": 0.10060309265761347,
+          "prop_delta_positive": 0.75
+        },
+        {
+          "object_domain": "container",
+          "n_items": 3,
+          "mean_delta_margin": -0.007299758715337094,
+          "prop_delta_positive": 0.6666666666666666
+        },
+        {
+          "object_domain": "craft",
+          "n_items": 2,
+          "mean_delta_margin": 0.43507377065725583,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "decision_object",
+          "n_items": 1,
+          "mean_delta_margin": -0.4057274514531233,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "design_object",
+          "n_items": 2,
+          "mean_delta_margin": 0.025715655996100484,
+          "prop_delta_positive": 0.5
+        },
+        {
+          "object_domain": "dining_item",
+          "n_items": 2,
+          "mean_delta_margin": 0.6771209170944139,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "food",
+          "n_items": 8,
+          "mean_delta_margin": 0.2922723675583578,
+          "prop_delta_positive": 0.875
+        },
+        {
+          "object_domain": "food_container",
+          "n_items": 1,
+          "mean_delta_margin": 0.3354651493030012,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "furniture",
+          "n_items": 3,
+          "mean_delta_margin": 0.3869152195653091,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "garden",
+          "n_items": 4,
+          "mean_delta_margin": -0.15627953486980017,
+          "prop_delta_positive": 0.25
+        },
+        {
+          "object_domain": "hardware",
+          "n_items": 2,
+          "mean_delta_margin": 0.3354786242832877,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "home_object",
+          "n_items": 7,
+          "mean_delta_margin": 0.30332288018254067,
+          "prop_delta_positive": 0.8571428571428571
+        },
+        {
+          "object_domain": "home_textile",
+          "n_items": 1,
+          "mean_delta_margin": 1.1532767710840126,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "kitchenware",
+          "n_items": 2,
+          "mean_delta_margin": 0.28474494687254936,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "material_sample",
+          "n_items": 1,
+          "mean_delta_margin": -0.43535614369584463,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "personal_item",
+          "n_items": 2,
+          "mean_delta_margin": 0.26753170460384956,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "setup",
+          "n_items": 1,
+          "mean_delta_margin": -0.10457226998790015,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "store_object",
+          "n_items": 1,
+          "mean_delta_margin": -0.06496926317244212,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "tool",
+          "n_items": 1,
+          "mean_delta_margin": 0.5307019075116388,
+          "prop_delta_positive": 1.0
+        }
+      ],
+      "opposite_direction_items": [
+        {
+          "item_id": "yek5_1_005",
+          "delta_margin": -0.43535614369584463,
+          "bare_margin": 1.4189390126394392,
+          "yek_margin": 0.9835828689435946
+        },
+        {
+          "item_id": "yek5_1_007",
+          "delta_margin": -0.4057274514531233,
+          "bare_margin": 1.7266955500679997,
+          "yek_margin": 1.3209680986148764
+        },
+        {
+          "item_id": "yek5_1_008",
+          "delta_margin": -0.09072927093477734,
+          "bare_margin": 0.8444271064852895,
+          "yek_margin": 0.7536978355505122
+        },
+        {
+          "item_id": "yek5_1_017",
+          "delta_margin": -0.06578246254983089,
+          "bare_margin": -1.3253244635470978,
+          "yek_margin": -1.3911069260969287
+        },
+        {
+          "item_id": "yek5_1_021",
+          "delta_margin": -0.34320484567827103,
+          "bare_margin": 0.38107080672893456,
+          "yek_margin": 0.03786596105066353
+        },
+        {
+          "item_id": "yek5_1_023",
+          "delta_margin": -0.2489658601681941,
+          "bare_margin": -0.31159452463728954,
+          "yek_margin": -0.5605603848054836
+        },
+        {
+          "item_id": "yek5_1_024",
+          "delta_margin": -0.09267132586577587,
+          "bare_margin": 0.7182668529120355,
+          "yek_margin": 0.6255955270462596
+        },
+        {
+          "item_id": "yek5_1_027",
+          "delta_margin": -0.06496926317244212,
+          "bare_margin": 0.4600893911556341,
+          "yek_margin": 0.39512012798319196
+        },
+        {
+          "item_id": "yek5_1_028",
+          "delta_margin": -0.10457226998790015,
+          "bare_margin": 0.3439310938604949,
+          "yek_margin": 0.23935882387259477
+        },
+        {
+          "item_id": "yek5_1_032",
+          "delta_margin": -0.039772511567564894,
+          "bare_margin": 1.0016000400208647,
+          "yek_margin": 0.9618275284532998
+        },
+        {
+          "item_id": "yek5_1_033",
+          "delta_margin": -0.4197582042982795,
+          "bare_margin": 0.6918110764014083,
+          "yek_margin": 0.2720528721031288
+        },
+        {
+          "item_id": "yek5_1_043",
+          "delta_margin": -0.03789404872341384,
+          "bare_margin": 0.45587264981152265,
+          "yek_margin": 0.4179786010881088
+        }
+      ]
+    },
+    "parsbert": {
+      "n_items": 48,
+      "mean_delta_margin": 0.12725827660524533,
+      "proportion_delta_margin_positive": 0.6458333333333334,
+      "bootstrap95_mean_delta_margin": {
+        "low": -0.0010601367624837278,
+        "high": 0.2575257946081044
+      },
+      "bootstrap95_prop_delta_positive": {
+        "low": 0.5,
+        "high": 0.7708333333333334
+      },
+      "mean_bare_margin": -0.41746608779105393,
+      "mean_yek_margin": -0.29020781118580863,
+      "mean_delta_prior_margin": 0.0,
+      "breakdown_by_object_anaphor_type": [
+        {
+          "object_anaphor_type": "demonstrative_np",
+          "n_items": 24,
+          "mean_delta_margin": 0.16033316634608916,
+          "prop_delta_positive": 0.6666666666666666
+        },
+        {
+          "object_anaphor_type": "same_np",
+          "n_items": 24,
+          "mean_delta_margin": 0.09418338686440149,
+          "prop_delta_positive": 0.625
+        }
+      ],
+      "breakdown_by_object_domain": [
+        {
+          "object_domain": "clothing",
+          "n_items": 4,
+          "mean_delta_margin": -0.03766860135062766,
+          "prop_delta_positive": 0.5
+        },
+        {
+          "object_domain": "container",
+          "n_items": 3,
+          "mean_delta_margin": -0.14749025537996427,
+          "prop_delta_positive": 0.6666666666666666
+        },
+        {
+          "object_domain": "craft",
+          "n_items": 2,
+          "mean_delta_margin": -0.34477688175864163,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "decision_object",
+          "n_items": 1,
+          "mean_delta_margin": -0.25190543158059997,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "design_object",
+          "n_items": 2,
+          "mean_delta_margin": -0.01972444991027178,
+          "prop_delta_positive": 0.5
+        },
+        {
+          "object_domain": "dining_item",
+          "n_items": 2,
+          "mean_delta_margin": 0.7882311374451461,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "food",
+          "n_items": 8,
+          "mean_delta_margin": 0.25272153491691035,
+          "prop_delta_positive": 0.625
+        },
+        {
+          "object_domain": "food_container",
+          "n_items": 1,
+          "mean_delta_margin": 0.012179681603021741,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "furniture",
+          "n_items": 3,
+          "mean_delta_margin": 0.24476867446402517,
+          "prop_delta_positive": 0.6666666666666666
+        },
+        {
+          "object_domain": "garden",
+          "n_items": 4,
+          "mean_delta_margin": -0.05425515495744754,
+          "prop_delta_positive": 0.5
+        },
+        {
+          "object_domain": "hardware",
+          "n_items": 2,
+          "mean_delta_margin": 0.49139945675048546,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "home_object",
+          "n_items": 7,
+          "mean_delta_margin": 0.25948205789138784,
+          "prop_delta_positive": 0.8571428571428571
+        },
+        {
+          "object_domain": "home_textile",
+          "n_items": 1,
+          "mean_delta_margin": 0.20014830814400053,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "kitchenware",
+          "n_items": 2,
+          "mean_delta_margin": 0.4868936214825337,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "material_sample",
+          "n_items": 1,
+          "mean_delta_margin": -0.6428962122031057,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "personal_item",
+          "n_items": 2,
+          "mean_delta_margin": 0.2609085712267165,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "setup",
+          "n_items": 1,
+          "mean_delta_margin": -0.34245077918361266,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "store_object",
+          "n_items": 1,
+          "mean_delta_margin": 0.7057352626340427,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "tool",
+          "n_items": 1,
+          "mean_delta_margin": -0.6605633794287868,
+          "prop_delta_positive": 0.0
+        }
+      ],
+      "opposite_direction_items": [
+        {
+          "item_id": "yek5_1_005",
+          "delta_margin": -0.6428962122031057,
+          "bare_margin": 3.435192458273377,
+          "yek_margin": 2.792296246070271
+        },
+        {
+          "item_id": "yek5_1_007",
+          "delta_margin": -0.25190543158059997,
+          "bare_margin": 0.3134069630399434,
+          "yek_margin": 0.06150153145934345
+        },
+        {
+          "item_id": "yek5_1_008",
+          "delta_margin": -0.05646182505207431,
+          "bare_margin": 0.4724676433218913,
+          "yek_margin": 0.416005818269817
+        },
+        {
+          "item_id": "yek5_1_011",
+          "delta_margin": -0.6605633794287868,
+          "bare_margin": 1.8068600911740704,
+          "yek_margin": 1.1462967117452836
+        },
+        {
+          "item_id": "yek5_1_013",
+          "delta_margin": -0.46981934373216117,
+          "bare_margin": -0.5981264607363945,
+          "yek_margin": -1.0679458044685557
+        },
+        {
+          "item_id": "yek5_1_014",
+          "delta_margin": -0.08960313522815566,
+          "bare_margin": 0.411455587579463,
+          "yek_margin": 0.3218524523513073
+        },
+        {
+          "item_id": "yek5_1_015",
+          "delta_margin": -0.644200510815294,
+          "bare_margin": 1.0342691571726887,
+          "yek_margin": 0.3900686463573948
+        },
+        {
+          "item_id": "yek5_1_016",
+          "delta_margin": -0.2197344197851221,
+          "bare_margin": -0.6177348409440708,
+          "yek_margin": -0.8374692607291929
+        },
+        {
+          "item_id": "yek5_1_017",
+          "delta_margin": -0.005563487041261972,
+          "bare_margin": -1.8904004768807106,
+          "yek_margin": -1.8959639639219725
+        },
+        {
+          "item_id": "yek5_1_023",
+          "delta_margin": -0.24852660077606115,
+          "bare_margin": -1.610055676831577,
+          "yek_margin": -1.8585822776076382
+        },
+        {
+          "item_id": "yek5_1_024",
+          "delta_margin": -0.2385877375829626,
+          "bare_margin": 0.7801212071314114,
+          "yek_margin": 0.5415334695484488
+        },
+        {
+          "item_id": "yek5_1_028",
+          "delta_margin": -0.34245077918361266,
+          "bare_margin": 1.022537229815498,
+          "yek_margin": 0.6800864506318853
+        },
+        {
+          "item_id": "yek5_1_029",
+          "delta_margin": -0.1776840197471352,
+          "bare_margin": -0.1835586995710261,
+          "yek_margin": -0.3612427193181613
+        },
+        {
+          "item_id": "yek5_1_036",
+          "delta_margin": -0.644490324532174,
+          "bare_margin": 0.3733713012702715,
+          "yek_margin": -0.2711190232619025
+        },
+        {
+          "item_id": "yek5_1_040",
+          "delta_margin": -0.3393928347647557,
+          "bare_margin": 0.569482633796258,
+          "yek_margin": 0.23008979903150228
+        },
+        {
+          "item_id": "yek5_1_046",
+          "delta_margin": -0.18278280131264868,
+          "bare_margin": -0.5211920109789139,
+          "yek_margin": -0.7039748122915626
+        },
+        {
+          "item_id": "yek5_1_047",
+          "delta_margin": -0.8875782163192829,
+          "bare_margin": 0.40629313420116286,
+          "yek_margin": -0.48128508211812004
+        }
+      ]
+    },
+    "xlm-r": {
+      "n_items": 48,
+      "mean_delta_margin": 0.04923436245828511,
+      "proportion_delta_margin_positive": 0.5208333333333334,
+      "bootstrap95_mean_delta_margin": {
+        "low": -0.05383268764002928,
+        "high": 0.14868836007935646
+      },
+      "bootstrap95_prop_delta_positive": {
+        "low": 0.375,
+        "high": 0.6666666666666666
+      },
+      "mean_bare_margin": -0.118562812466058,
+      "mean_yek_margin": -0.06932845000777288,
+      "mean_delta_prior_margin": 0.0,
+      "breakdown_by_object_anaphor_type": [
+        {
+          "object_anaphor_type": "demonstrative_np",
+          "n_items": 24,
+          "mean_delta_margin": 0.037558995246801466,
+          "prop_delta_positive": 0.5
+        },
+        {
+          "object_anaphor_type": "same_np",
+          "n_items": 24,
+          "mean_delta_margin": 0.060909729669768764,
+          "prop_delta_positive": 0.5416666666666666
+        }
+      ],
+      "breakdown_by_object_domain": [
+        {
+          "object_domain": "clothing",
+          "n_items": 4,
+          "mean_delta_margin": -0.1498780733589134,
+          "prop_delta_positive": 0.5
+        },
+        {
+          "object_domain": "container",
+          "n_items": 3,
+          "mean_delta_margin": 0.0002954433553333062,
+          "prop_delta_positive": 0.3333333333333333
+        },
+        {
+          "object_domain": "craft",
+          "n_items": 2,
+          "mean_delta_margin": 0.09359251710220562,
+          "prop_delta_positive": 0.5
+        },
+        {
+          "object_domain": "decision_object",
+          "n_items": 1,
+          "mean_delta_margin": -0.29401475066212424,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "design_object",
+          "n_items": 2,
+          "mean_delta_margin": -0.06630240094343942,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "dining_item",
+          "n_items": 2,
+          "mean_delta_margin": 0.23356297659816438,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "food",
+          "n_items": 8,
+          "mean_delta_margin": 0.13656075315282,
+          "prop_delta_positive": 0.625
+        },
+        {
+          "object_domain": "food_container",
+          "n_items": 1,
+          "mean_delta_margin": 0.2302991420603666,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "furniture",
+          "n_items": 3,
+          "mean_delta_margin": -0.27024553328548534,
+          "prop_delta_positive": 0.3333333333333333
+        },
+        {
+          "object_domain": "garden",
+          "n_items": 4,
+          "mean_delta_margin": -0.1314066021701813,
+          "prop_delta_positive": 0.25
+        },
+        {
+          "object_domain": "hardware",
+          "n_items": 2,
+          "mean_delta_margin": 0.5377760508432724,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "home_object",
+          "n_items": 7,
+          "mean_delta_margin": 0.2905468242588353,
+          "prop_delta_positive": 0.7142857142857143
+        },
+        {
+          "object_domain": "home_textile",
+          "n_items": 1,
+          "mean_delta_margin": 0.32563753250837957,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "kitchenware",
+          "n_items": 2,
+          "mean_delta_margin": 0.10416463455510727,
+          "prop_delta_positive": 0.5
+        },
+        {
+          "object_domain": "material_sample",
+          "n_items": 1,
+          "mean_delta_margin": -0.5423407372981606,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "personal_item",
+          "n_items": 2,
+          "mean_delta_margin": 0.19361180164951597,
+          "prop_delta_positive": 1.0
+        },
+        {
+          "object_domain": "setup",
+          "n_items": 1,
+          "mean_delta_margin": -0.17664939618755593,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "store_object",
+          "n_items": 1,
+          "mean_delta_margin": -0.25149737900129443,
+          "prop_delta_positive": 0.0
+        },
+        {
+          "object_domain": "tool",
+          "n_items": 1,
+          "mean_delta_margin": -0.31232099615915043,
+          "prop_delta_positive": 0.0
+        }
+      ],
+      "opposite_direction_items": [
+        {
+          "item_id": "yek5_1_001",
+          "delta_margin": -0.05022037261557388,
+          "bare_margin": -1.5514683074861142,
+          "yek_margin": -1.601688680101688
+        },
+        {
+          "item_id": "yek5_1_004",
+          "delta_margin": -0.11692977219609646,
+          "bare_margin": 1.0218679555885801,
+          "yek_margin": 0.9049381833924837
+        },
+        {
+          "item_id": "yek5_1_005",
+          "delta_margin": -0.5423407372981606,
+          "bare_margin": 0.2633709882918214,
+          "yek_margin": -0.2789697490063392
+        },
+        {
+          "item_id": "yek5_1_006",
+          "delta_margin": -0.01919908865760922,
+          "bare_margin": 1.1822527276041606,
+          "yek_margin": 1.1630536389465513
+        },
+        {
+          "item_id": "yek5_1_007",
+          "delta_margin": -0.29401475066212424,
+          "bare_margin": 0.17913982625274638,
+          "yek_margin": -0.11487492440937785
+        },
+        {
+          "item_id": "yek5_1_008",
+          "delta_margin": -0.11340571322926962,
+          "bare_margin": 0.4928769939255693,
+          "yek_margin": 0.37947128069629965
+        },
+        {
+          "item_id": "yek5_1_011",
+          "delta_margin": -0.31232099615915043,
+          "bare_margin": 1.5143085300922396,
+          "yek_margin": 1.2019875339330892
+        },
+        {
+          "item_id": "yek5_1_013",
+          "delta_margin": -0.25317433887839247,
+          "bare_margin": -0.18408788324450143,
+          "yek_margin": -0.4372622221228939
+        },
+        {
+          "item_id": "yek5_1_014",
+          "delta_margin": -0.6419950073413183,
+          "bare_margin": 0.9917686211815129,
+          "yek_margin": 0.34977361384019456
+        },
+        {
+          "item_id": "yek5_1_015",
+          "delta_margin": -0.2564504053975798,
+          "bare_margin": 0.9077207928160607,
+          "yek_margin": 0.6512703874184809
+        },
+        {
+          "item_id": "yek5_1_018",
+          "delta_margin": -0.07768488718698197,
+          "bare_margin": 0.31438658947693066,
+          "yek_margin": 0.2367017022899487
+        },
+        {
+          "item_id": "yek5_1_022",
+          "delta_margin": -0.17305903249070975,
+          "bare_margin": 0.9615087139827665,
+          "yek_margin": 0.7884496814920567
+        },
+        {
+          "item_id": "yek5_1_023",
+          "delta_margin": -0.013538051611214463,
+          "bare_margin": -2.3814751837347146,
+          "yek_margin": -2.395013235345929
+        },
+        {
+          "item_id": "yek5_1_024",
+          "delta_margin": -0.44908004943329316,
+          "bare_margin": 0.8486180745290453,
+          "yek_margin": 0.3995380250957521
+        },
+        {
+          "item_id": "yek5_1_027",
+          "delta_margin": -0.25149737900129443,
+          "bare_margin": 1.2963051122561509,
+          "yek_margin": 1.0448077332548564
+        },
+        {
+          "item_id": "yek5_1_028",
+          "delta_margin": -0.17664939618755593,
+          "bare_margin": 0.0451923452033145,
+          "yek_margin": -0.13145705098424143
+        },
+        {
+          "item_id": "yek5_1_029",
+          "delta_margin": -0.28744489595180545,
+          "bare_margin": 0.2331178733812913,
+          "yek_margin": -0.05432702257051414
+        },
+        {
+          "item_id": "yek5_1_031",
+          "delta_margin": -0.04744451556786933,
+          "bare_margin": 0.3162093664902974,
+          "yek_margin": 0.2687648509224281
+        },
+        {
+          "item_id": "yek5_1_032",
+          "delta_margin": -1.062846005244706,
+          "bare_margin": 0.5954800446541646,
+          "yek_margin": -0.46736596059054136
+        },
+        {
+          "item_id": "yek5_1_036",
+          "delta_margin": -0.10407072490943825,
+          "bare_margin": -0.8630949583864758,
+          "yek_margin": -0.967165683295914
+        },
+        {
+          "item_id": "yek5_1_038",
+          "delta_margin": -0.1916736777503414,
+          "bare_margin": 0.8739960780810745,
+          "yek_margin": 0.6823224003307331
+        },
+        {
+          "item_id": "yek5_1_047",
+          "delta_margin": -0.26873808179672865,
+          "bare_margin": -0.7673470447022868,
+          "yek_margin": -1.0360851264990154
+        },
+        {
+          "item_id": "yek5_1_048",
+          "delta_margin": -0.05358776000218346,
+          "bare_margin": -0.16187391250271488,
+          "yek_margin": -0.21546167250489834
+        }
+      ]
+    }
+  },
+  "cross_model_consistency": {
+    "models": [
+      "mbert",
+      "parsbert",
+      "xlm-r"
+    ],
+    "n_items": 48,
+    "n_items_positive_all_models": 18,
+    "n_items_with_any_nonpositive": 30,
+    "items_positive_all_models": [
+      "yek5_1_002",
+      "yek5_1_003",
+      "yek5_1_009",
+      "yek5_1_010",
+      "yek5_1_012",
+      "yek5_1_019",
+      "yek5_1_020",
+      "yek5_1_025",
+      "yek5_1_026",
+      "yek5_1_030",
+      "yek5_1_034",
+      "yek5_1_035",
+      "yek5_1_037",
+      "yek5_1_039",
+      "yek5_1_041",
+      "yek5_1_042",
+      "yek5_1_044",
+      "yek5_1_045"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+decoder_model_key,decoder_model_id,item_id,anaphor_type,target_kind,target_text_bare,target_text_yek,token_count_bare,token_count_yek,mean_logprob_bare,mean_logprob_yek,delta_yek_minus_bare
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_001,same_np,object_marker,همان,همان,1,1,-9.971552848815918,-9.902907371520996,0.06864547729492188
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_001,same_np,object_full_np,همان لیوان,همان لیوان,3,3,-6.7401018142700195,-6.134873390197754,0.6052284240722656
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_001,same_np,subject_span,آراد,آراد,2,2,-3.7597625255584717,-4.301603317260742,-0.5418407917022705
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_002,demonstrative_np,object_marker,این,این,1,1,-4.655963897705078,-4.586888790130615,0.06907510757446289
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_002,demonstrative_np,object_full_np,این کوله پشتی,این کوله پشتی,6,6,-1.3393926620483398,-1.2155073881149292,0.12388527393341064
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_002,demonstrative_np,subject_span,بهار,بهار,2,2,-4.106878280639648,-4.2178754806518555,-0.11099720001220703
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_003,same_np,object_marker,همان,همان,1,1,-9.900102615356445,-9.405742645263672,0.49435997009277344
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_003,same_np,object_full_np,همان چراغ مطالعه,همان چراغ مطالعه,5,5,-3.9461727142333984,-3.442850112915039,0.5033226013183594
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_003,same_np,subject_span,پارسا,پارسا,2,2,-4.945394039154053,-4.840569972991943,0.10482406616210938
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_004,demonstrative_np,object_marker,این,این,1,1,-4.940629005432129,-4.7462544441223145,0.19437456130981445
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_004,demonstrative_np,object_full_np,این گلدان سفالی,این گلدان سفالی,6,6,-1.739478349685669,-1.5097154378890991,0.22976291179656982
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_004,demonstrative_np,subject_span,ترانه,ترانه,1,1,-13.456254005432129,-12.746253967285156,0.7100000381469727
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_005,same_np,object_marker,همان,همان,1,1,-8.829683303833008,-8.331278800964355,0.49840450286865234
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_005,same_np,object_full_np,همان نمونه پارچه,همان نمونه پارچه,4,4,-4.845028877258301,-4.635668754577637,0.20936012268066406
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_005,same_np,subject_span,ثنا,ثنا,2,2,-5.703406810760498,-6.134531021118164,-0.431124210357666
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_006,demonstrative_np,object_marker,این,این,1,1,-4.698508262634277,-4.443663120269775,0.25484514236450195
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_006,demonstrative_np,object_full_np,این مدل اولیه,این مدل اولیه,3,3,-4.259261131286621,-3.0846309661865234,1.1746301651000977
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_006,demonstrative_np,subject_span,جواد,جواد,2,2,-4.178443908691406,-4.381655693054199,-0.20321178436279297
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_007,same_np,object_marker,همان,همان,1,1,-9.267911911010742,-8.787073135375977,0.4808387756347656
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_007,same_np,object_full_np,همان طرح جایگزین,همان طرح جایگزین,5,5,-4.0410475730896,-3.7230591773986816,0.31798839569091797
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_007,same_np,subject_span,حنا,حنا,2,2,-5.421308517456055,-5.535545825958252,-0.11423730850219727
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_008,demonstrative_np,object_marker,این,این,1,1,-4.941051006317139,-4.767347812652588,0.17370319366455078
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_008,demonstrative_np,object_full_np,این طرح میانی,این طرح میانی,4,4,-3.576747417449951,-2.166898488998413,1.409848928451538
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_008,demonstrative_np,subject_span,داریوش,داریوش,3,3,-3.0551257133483887,-2.8224425315856934,0.2326831817626953
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_009,same_np,object_marker,همان,همان,1,1,-9.691241264343262,-9.14171028137207,0.5495309829711914
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_009,same_np,object_full_np,همان سبد میوه,همان سبد میوه,5,5,-3.544874668121338,-3.1355140209198,0.4093606472015381
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_009,same_np,subject_span,رها,رها,2,2,-5.9733476638793945,-6.027079105377197,-0.053731441497802734
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_010,demonstrative_np,object_marker,این,این,1,1,-4.829683303833008,-4.408078670501709,0.42160463333129883
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_010,demonstrative_np,object_full_np,این پتوی سبک,این پتوی سبک,5,5,-2.702702283859253,-2.0322747230529785,0.6704275608062744
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_010,demonstrative_np,subject_span,سارا,سارا,2,2,-5.033932209014893,-4.4494194984436035,0.5845127105712891
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_011,same_np,object_marker,همان,همان,1,1,-10.162094116210938,-9.158019065856934,1.004075050354004
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_011,same_np,object_full_np,همان کیف ابزار,همان کیف ابزار,5,5,-4.026348114013672,-3.7459335327148438,0.2804145812988281
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_011,same_np,subject_span,میلاد,میلاد,1,1,-11.896469116210938,-12.064269065856934,-0.1677999496459961
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_012,demonstrative_np,object_marker,این,این,1,1,-5.164180755615234,-4.976710319519043,0.1874704360961914
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_012,demonstrative_np,object_full_np,این بطری,این بطری,3,3,-2.740921974182129,-2.4517579078674316,0.28916406631469727
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_012,demonstrative_np,subject_span,فرزانه,فرزانه,3,3,-2.5729384422302246,-2.4904491901397705,0.0824892520904541
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_013,same_np,object_marker,همان,همان,1,1,-10.544862747192383,-10.283320426940918,0.26154232025146484
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_013,same_np,object_full_np,همان ماکت,همان ماکت,4,4,-4.569908142089844,-4.032289981842041,0.5376181602478027
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_013,same_np,subject_span,کامیار,کامیار,3,3,-2.6517958641052246,-2.4886765480041504,0.16311931610107422
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_014,demonstrative_np,object_marker,این,این,1,1,-4.204033374786377,-3.969817876815796,0.23421549797058105
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_014,demonstrative_np,object_full_np,این قفسه چوبی,این قفسه چوبی,6,6,-1.0356321334838867,-0.8075792789459229,0.22805285453796387
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_014,demonstrative_np,subject_span,لاله,لاله,2,2,-6.944177627563477,-7.040167808532715,-0.09599018096923828
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_015,same_np,object_marker,همان,همان,1,1,-9.013103485107422,-8.574539184570312,0.4385643005371094
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_015,same_np,object_full_np,همان قاب عکس,همان قاب عکس,4,4,-4.932864665985107,-4.373323440551758,0.5595412254333496
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_015,same_np,subject_span,مانی,مانی,2,2,-7.681826591491699,-7.539471626281738,0.14235496520996094
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_016,demonstrative_np,object_marker,این,این,1,1,-4.604147911071777,-4.488260269165039,0.11588764190673828
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_016,demonstrative_np,object_full_np,این کاردستی,این کاردستی,4,4,-2.0492191314697266,-1.5125889778137207,0.5366301536560059
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_016,demonstrative_np,subject_span,نرگس,نرگس,4,4,-3.170928478240967,-3.175335645675659,-0.004407167434692383
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_017,same_np,object_marker,همان,همان,1,1,-10.22221565246582,-10.193607330322266,0.028608322143554688
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_017,same_np,object_full_np,همان سوپ,همان سوپ,3,3,-5.671980857849121,-5.2979655265808105,0.37401533126831055
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_017,same_np,subject_span,هانیه,هانیه,3,3,-4.685029983520508,-4.698269844055176,-0.013239860534667969
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_018,demonstrative_np,object_marker,این,این,1,1,-5.693325042724609,-5.614693641662598,0.07863140106201172
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_018,demonstrative_np,object_full_np,این کیک,این کیک,3,3,-3.1152610778808594,-2.884181499481201,0.2310795783996582
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_018,demonstrative_np,subject_span,وحید,وحید,2,2,-5.4194746017456055,-5.507673263549805,-0.08819866180419922
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_019,same_np,object_marker,همان,همان,1,1,-10.514653205871582,-10.385245323181152,0.1294078826904297
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_019,same_np,object_full_np,همان نان,همان نان,3,3,-6.064910888671875,-5.624892234802246,0.4400186538696289
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_019,same_np,subject_span,یاسمن,یاسمن,3,3,-4.173768043518066,-3.826420783996582,0.3473472595214844
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_020,demonstrative_np,object_marker,این,این,1,1,-5.101650238037109,-4.852049350738525,0.24960088729858398
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_020,demonstrative_np,object_full_np,این خوراک سبزی,این خوراک سبزی,6,6,-1.790392279624939,-1.3451751470565796,0.4452171325683594
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_020,demonstrative_np,subject_span,امیر,امیر,1,1,-11.47665023803711,-10.523923873901367,0.9527263641357422
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_021,same_np,object_marker,همان,همان,1,1,-10.204739570617676,-10.084346771240234,0.1203927993774414
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_021,same_np,object_full_np,همان گل رز,همان گل رز,4,4,-4.529043197631836,-4.152772903442383,0.3762702941894531
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_021,same_np,subject_span,بیتا,بیتا,3,3,-4.247640609741211,-4.117778301239014,0.12986230850219727
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_022,demonstrative_np,object_marker,این,این,1,1,-5.890445232391357,-5.491796016693115,0.3986492156982422
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_022,demonstrative_np,object_full_np,این نهال انار,این نهال انار,5,5,-2.763079881668091,-2.1562130451202393,0.6068668365478516
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_022,demonstrative_np,subject_span,پویان,پویان,2,2,-4.690046787261963,-3.9362895488739014,0.7537572383880615
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_023,same_np,object_marker,همان,همان,1,1,-10.147467613220215,-9.686957359313965,0.46051025390625
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_023,same_np,object_full_np,همان نهال کوچک,همان نهال کوچک,4,4,-5.2100114822387695,-5.052007675170898,0.1580038070678711
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_023,same_np,subject_span,سامان,سامان,2,2,-6.033505439758301,-5.952918529510498,0.08058691024780273
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_024,demonstrative_np,object_marker,این,این,1,1,-5.943735599517822,-5.512975692749023,0.43075990676879883
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_024,demonstrative_np,object_full_np,این بذر ریحان,این بذر ریحان,6,6,-2.122197151184082,-1.7543834447860718,0.36781370639801025
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_024,demonstrative_np,subject_span,جمیله,جمیله,3,3,-4.10806131362915,-4.050134658813477,0.05792665481567383
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_025,same_np,object_marker,همان,همان,1,1,-10.74756908416748,-10.301025390625,0.44654369354248047
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_025,same_np,object_full_np,همان سفره,همان سفره,3,3,-7.140830993652344,-6.150279521942139,0.9905514717102051
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_025,same_np,subject_span,حسام,حسام,2,2,-6.112301826477051,-5.552849769592285,0.5594520568847656
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_026,demonstrative_np,object_marker,این,این,1,1,-4.840034484863281,-4.451020240783691,0.38901424407958984
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_026,demonstrative_np,object_full_np,این سینی پذیرایی,این سینی پذیرایی,5,5,-2.7695441246032715,-2.375882387161255,0.3936617374420166
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_026,demonstrative_np,subject_span,دلارام,دلارام,3,3,-3.3785300254821777,-3.332932949066162,0.045597076416015625
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_027,same_np,object_marker,همان,همان,1,1,-10.368545532226562,-9.677896499633789,0.6906490325927734
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_027,same_np,object_full_np,همان ویترین,همان ویترین,3,3,-6.5810041427612305,-5.951732635498047,0.6292715072631836
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_027,same_np,subject_span,رامین,رامین,2,2,-6.011162281036377,-6.1816277503967285,-0.17046546936035156
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_028,demonstrative_np,object_marker,این,این,1,1,-5.666867256164551,-5.156761169433594,0.510106086730957
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_028,demonstrative_np,object_full_np,این میز فروش,این میز فروش,4,4,-2.8629586696624756,-2.2136266231536865,0.6493320465087891
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_028,demonstrative_np,subject_span,سودابه,سودابه,2,2,-5.797615051269531,-5.6226887702941895,0.1749262809753418
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_029,same_np,object_marker,همان,همان,1,1,-9.527053833007812,-9.21635627746582,0.3106975555419922
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_029,same_np,object_full_np,همان بند کفش,همان بند کفش,5,5,-3.7020232677459717,-3.247692823410034,0.4543304443359375
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_029,same_np,subject_span,شکوفه,شکوفه,3,3,-3.14461088180542,-3.1552376747131348,-0.010626792907714844
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_030,demonstrative_np,object_marker,این,این,1,1,-6.147345066070557,-5.6706414222717285,0.4767036437988281
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_030,demonstrative_np,object_full_np,این کراوات,این کراوات,4,4,-3.432722568511963,-2.1708312034606934,1.2618913650512695
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_030,demonstrative_np,subject_span,فرهاد,فرهاد,2,2,-3.8897862434387207,-3.709501028060913,0.18028521537780762
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_031,same_np,object_marker,همان,همان,1,1,-9.851762771606445,-9.646658897399902,0.20510387420654297
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_031,same_np,object_full_np,همان پاکت پستی,همان پاکت پستی,5,5,-4.5163164138793945,-4.135361671447754,0.3809547424316406
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_031,same_np,subject_span,الهام,الهام,2,2,-6.200545787811279,-6.068508148193359,0.13203763961791992
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_032,demonstrative_np,object_marker,این,این,1,1,-5.728621959686279,-5.241715431213379,0.4869065284729004
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_032,demonstrative_np,object_full_np,این کمربند,این کمربند,4,4,-2.217769145965576,-1.6178948879241943,0.5998742580413818
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_032,demonstrative_np,subject_span,هومن,هومن,2,2,-6.72189998626709,-6.151822090148926,0.5700778961181641
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_033,same_np,object_marker,همان,همان,1,1,-9.443798065185547,-9.38374137878418,0.06005668640136719
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_033,same_np,object_full_np,همان پنجره,همان پنجره,3,3,-5.830569267272949,-5.632458686828613,0.19811058044433594
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_033,same_np,subject_span,یگانه,یگانه,2,2,-6.806756973266602,-6.82875394821167,-0.02199697494506836
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_034,demonstrative_np,object_marker,این,این,1,1,-5.694325923919678,-5.332056045532227,0.36226987838745117
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_034,demonstrative_np,object_full_np,این دریچه,این دریچه,3,3,-3.7793517112731934,-2.762838840484619,1.0165128707885742
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_034,demonstrative_np,subject_span,آبتین,آبتین,3,3,-4.866239547729492,-4.5546746253967285,0.31156492233276367
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_035,same_np,object_marker,همان,همان,1,1,-9.45727825164795,-9.061159133911133,0.3961191177368164
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_035,same_np,object_full_np,همان قفل,همان قفل,3,3,-5.894238471984863,-5.099471092224121,0.7947673797607422
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_035,same_np,subject_span,بهرام,بهرام,3,3,-3.5139503479003906,-3.4815099239349365,0.0324404239654541
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_036,demonstrative_np,object_marker,این,این,1,1,-4.973450660705566,-4.452482223510742,0.5209684371948242
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_036,demonstrative_np,object_full_np,این بسته کاغذی,این بسته کاغذی,7,7,-1.5407462120056152,-1.1044484376907349,0.43629777431488037
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_036,demonstrative_np,subject_span,پریا,پریا,2,2,-4.644322395324707,-4.258094310760498,0.386228084564209
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_037,same_np,object_marker,همان,همان,1,1,-9.685840606689453,-9.439580917358398,0.2462596893310547
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_037,same_np,object_full_np,همان آینه,همان آینه,3,3,-5.838743209838867,-5.0694732666015625,0.7692699432373047
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_037,same_np,subject_span,تینا,تینا,2,2,-4.704416275024414,-4.382711410522461,0.3217048645019531
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_038,demonstrative_np,object_marker,این,این,1,1,-5.953834533691406,-5.540406227111816,0.41342830657958984
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_038,demonstrative_np,object_full_np,این میز کار,این میز کار,4,4,-3.103638172149658,-2.279198169708252,0.8244400024414062
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_038,demonstrative_np,subject_span,جمشید,جمشید,3,3,-3.891406774520874,-3.8607728481292725,0.030633926391601562
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_039,same_np,object_marker,همان,همان,1,1,-9.27677059173584,-8.964025497436523,0.3127450942993164
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_039,same_np,object_full_np,همان عینک,همان عینک,4,4,-3.9430055618286133,-3.5467066764831543,0.396298885345459
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_039,same_np,subject_span,حوریه,حوریه,3,3,-4.4101243019104,-4.367112636566162,0.04301166534423828
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_040,demonstrative_np,object_marker,این,این,1,1,-5.176506519317627,-4.752617359161377,0.42388916015625
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_040,demonstrative_np,object_full_np,این کفش چرمی,این کفش چرمی,7,7,-1.2925643920898438,-1.1192518472671509,0.17331254482269287
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_040,demonstrative_np,subject_span,داریا,داریا,2,2,-4.84861946105957,-4.867550849914551,-0.01893138885498047
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_041,same_np,object_marker,همان,همان,1,1,-9.938027381896973,-9.642951011657715,0.2950763702392578
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_041,same_np,object_full_np,همان دیوار,همان دیوار,3,3,-6.153565883636475,-5.526850700378418,0.6267151832580566
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_041,same_np,subject_span,رامتین,رامتین,3,3,-4.015359878540039,-3.8722105026245117,0.14314937591552734
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_042,demonstrative_np,object_marker,این,این,1,1,-5.270849704742432,-5.063118934631348,0.20773077011108398
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_042,demonstrative_np,object_full_np,این صندلی,این صندلی,4,4,-2.5845489501953125,-2.205359697341919,0.37918925285339355
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_042,demonstrative_np,subject_span,سمن,سمن,2,2,-6.104257583618164,-5.610861778259277,0.4933958053588867
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_043,same_np,object_marker,همان,همان,1,1,-9.366789817810059,-8.651494979858398,0.7152948379516602
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_043,same_np,object_full_np,همان جعبه فلزی,همان جعبه فلزی,6,6,-2.647627830505371,-2.443873405456543,0.20375442504882812
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_043,same_np,subject_span,شهرام,شهرام,2,2,-4.2209601402282715,-4.162165641784668,0.058794498443603516
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_044,demonstrative_np,object_marker,این,این,1,1,-5.8616180419921875,-5.464771270751953,0.3968467712402344
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_044,demonstrative_np,object_full_np,این نرده,این نرده,4,4,-3.785478353500366,-2.7299442291259766,1.0555341243743896
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_044,demonstrative_np,subject_span,فاطمه,فاطمه,3,3,-2.774951934814453,-2.6965720653533936,0.07837986946105957
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_045,same_np,object_marker,همان,همان,1,1,-10.032193183898926,-9.924220085144043,0.10797309875488281
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_045,same_np,object_full_np,همان سالاد,همان سالاد,3,3,-6.11773681640625,-5.716800689697266,0.4009361267089844
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_045,same_np,subject_span,کاوه,کاوه,2,2,-5.097028732299805,-5.104436874389648,-0.00740814208984375
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_046,demonstrative_np,object_marker,این,این,1,1,-6.041398048400879,-6.036378860473633,0.005019187927246094
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_046,demonstrative_np,object_full_np,این قهوه,این قهوه,4,4,-2.903338670730591,-2.488833427429199,0.4145052433013916
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_046,demonstrative_np,subject_span,لیلا,لیلا,2,2,-4.848718643188477,-4.65285587310791,0.1958627700805664
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_047,same_np,object_marker,همان,همان,1,1,-9.808030128479004,-9.589380264282227,0.21864986419677734
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_047,same_np,object_full_np,همان میان وعده,همان میان وعده,4,4,-5.096743106842041,-4.797685623168945,0.2990574836730957
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_047,same_np,subject_span,مهرداد,مهرداد,3,3,-3.243187427520752,-3.313500165939331,-0.0703127384185791
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_048,demonstrative_np,object_marker,این,این,1,1,-5.959934234619141,-5.781628131866455,0.17830610275268555
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_048,demonstrative_np,object_full_np,این چای,این چای,3,3,-2.990907669067383,-2.500546932220459,0.49036073684692383
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_048,demonstrative_np,subject_span,نوشین,نوشین,2,2,-5.3108320236206055,-5.135348796844482,0.17548322677612305

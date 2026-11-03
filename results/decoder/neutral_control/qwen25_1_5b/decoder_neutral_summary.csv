@@ -1,0 +1,2 @@
+decoder_model_key,decoder_model_id,n,mean_delta,median_delta,ci_low,ci_high,prop_positive,min,max,token_count_bare_min,token_count_bare_max,token_count_yek_min,token_count_yek_max,token_count_mismatch_n
+qwen25_1_5b,Qwen/Qwen2.5-1.5B,48,-0.04335967202981313,-0.041221022605895996,-0.07045143097639084,-0.016049981117248535,0.2916666666666667,-0.3099038600921631,0.14012670516967773,16,16,16,16,0

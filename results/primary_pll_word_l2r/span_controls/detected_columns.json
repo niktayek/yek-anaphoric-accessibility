@@ -1,0 +1,10 @@
+{
+  "item_id": "item_id",
+  "condition": "condition",
+  "context": "context",
+  "object_continuation": "continuation_object_anaphoric",
+  "subject_continuation": "continuation_subject_continuing",
+  "object_np": "object",
+  "subject_np": "subject",
+  "anaphor_type": "object_anaphor_type"
+}

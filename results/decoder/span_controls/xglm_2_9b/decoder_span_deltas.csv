@@ -1,0 +1,145 @@
+decoder_model_key,decoder_model_id,item_id,anaphor_type,target_kind,target_text_bare,target_text_yek,token_count_bare,token_count_yek,mean_logprob_bare,mean_logprob_yek,delta_yek_minus_bare
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_001,same_np,object_marker,همان,همان,1,1,-20.661930084228516,-17.604496002197266,3.05743408203125
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_001,same_np,object_full_np,همان لیوان,همان لیوان,3,3,-10.872682571411133,-9.54892349243164,1.3237590789794922
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_001,same_np,subject_span,آراد,آراد,2,2,-6.009545803070068,-5.828198432922363,0.18134737014770508
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_002,demonstrative_np,object_marker,این,این,1,1,-7.558009147644043,-7.363563060760498,0.19444608688354492
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_002,demonstrative_np,object_full_np,این کوله پشتی,این کوله پشتی,5,5,-3.0884995460510254,-3.0947020053863525,-0.0062024593353271484
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_002,demonstrative_np,subject_span,بهار,بهار,1,1,-11.495509147644043,-10.769813537597656,0.7256956100463867
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_003,same_np,object_marker,همان,همان,1,1,-13.614896774291992,-12.24819278717041,1.366703987121582
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_003,same_np,object_full_np,همان چراغ مطالعه,همان چراغ مطالعه,4,4,-6.889017105102539,-6.373006820678711,0.5160102844238281
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_003,same_np,subject_span,پارسا,پارسا,2,2,-3.7758820056915283,-3.9585373401641846,-0.18265533447265625
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_004,demonstrative_np,object_marker,این,این,1,1,-7.582879066467285,-7.451834678649902,0.1310443878173828
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_004,demonstrative_np,object_full_np,این گلدان سفالی,این گلدان سفالی,6,6,-2.6557722091674805,-2.7986106872558594,-0.1428384780883789
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_004,demonstrative_np,subject_span,ترانه,ترانه,2,2,-4.895288467407227,-5.158923625946045,-0.26363515853881836
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_005,same_np,object_marker,همان,همان,1,1,-8.151832580566406,-8.621265411376953,-0.4694328308105469
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_005,same_np,object_full_np,همان نمونه پارچه,همان نمونه پارچه,4,4,-5.287567138671875,-5.577244758605957,-0.28967761993408203
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_005,same_np,subject_span,ثنا,ثنا,2,2,-3.866057872772217,-3.846398115158081,0.019659757614135742
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_006,demonstrative_np,object_marker,این,این,1,1,-7.442107200622559,-7.117000102996826,0.3251070976257324
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_006,demonstrative_np,object_full_np,این مدل اولیه,این مدل اولیه,3,3,-10.198577880859375,-10.029518127441406,0.16905975341796875
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_006,demonstrative_np,subject_span,جواد,جواد,2,2,-3.100294351577759,-3.0203590393066406,0.07993531227111816
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_007,same_np,object_marker,همان,همان,1,1,-12.397326469421387,-12.6414155960083,-0.24408912658691406
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_007,same_np,object_full_np,همان طرح جایگزین,همان طرح جایگزین,3,3,-9.317490577697754,-9.972406387329102,-0.6549158096313477
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_007,same_np,subject_span,حنا,حنا,2,2,-2.3650591373443604,-2.7027575969696045,-0.33769845962524414
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_008,demonstrative_np,object_marker,این,این,1,1,-6.981962203979492,-7.305839538574219,-0.32387733459472656
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_008,demonstrative_np,object_full_np,این طرح میانی,این طرح میانی,4,4,-4.534728050231934,-4.508517742156982,0.026210308074951172
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_008,demonstrative_np,subject_span,داریوش,داریوش,2,2,-5.896020889282227,-5.721656322479248,0.17436456680297852
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_009,same_np,object_marker,همان,همان,1,1,-9.743866920471191,-10.235342979431152,-0.49147605895996094
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_009,same_np,object_full_np,همان سبد میوه,همان سبد میوه,4,4,-5.660163879394531,-5.566072463989258,0.09409141540527344
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_009,same_np,subject_span,رها,رها,2,2,-4.090025901794434,-4.162811279296875,-0.0727853775024414
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_010,demonstrative_np,object_marker,این,این,1,1,-6.63383150100708,-6.9319233894348145,-0.2980918884277344
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_010,demonstrative_np,object_full_np,این پتوی سبک,این پتوی سبک,4,4,-4.526069164276123,-5.176941871643066,-0.6508727073669434
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_010,demonstrative_np,subject_span,سارا,سارا,1,1,-9.118206024169922,-9.056923866271973,0.06128215789794922
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_011,same_np,object_marker,همان,همان,1,1,-10.272478103637695,-10.964457511901855,-0.6919794082641602
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_011,same_np,object_full_np,همان کیف ابزار,همان کیف ابزار,4,4,-6.126342296600342,-6.127396583557129,-0.0010542869567871094
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_011,same_np,subject_span,میلاد,میلاد,1,1,-7.272478103637695,-6.3238325119018555,0.9486455917358398
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_012,demonstrative_np,object_marker,این,این,1,1,-7.034298419952393,-6.760120868682861,0.27417755126953125
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_012,demonstrative_np,object_full_np,این بطری,این بطری,3,3,-5.549236297607422,-5.028188705444336,0.5210475921630859
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_012,demonstrative_np,subject_span,فرزانه,فرزانه,3,3,-2.9872183799743652,-3.1259984970092773,-0.1387801170349121
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_013,same_np,object_marker,همان,همان,1,1,-15.578229904174805,-13.406272888183594,2.171957015991211
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_013,same_np,object_full_np,همان ماکت,همان ماکت,3,3,-8.661201477050781,-8.032144546508789,0.6290569305419922
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_013,same_np,subject_span,کامیار,کامیار,2,2,-4.167021751403809,-4.758406162261963,-0.5913844108581543
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_014,demonstrative_np,object_marker,این,این,1,1,-7.3580522537231445,-7.169292449951172,0.18875980377197266
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_014,demonstrative_np,object_full_np,این قفسه چوبی,این قفسه چوبی,6,6,-3.334226369857788,-3.0028281211853027,0.33139824867248535
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_014,demonstrative_np,subject_span,لاله,لاله,2,2,-4.937068939208984,-5.120730400085449,-0.18366146087646484
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_015,same_np,object_marker,همان,همان,1,1,-15.085539817810059,-12.158509254455566,2.927030563354492
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_015,same_np,object_full_np,همان قاب عکس,همان قاب عکس,3,3,-8.22869873046875,-7.609846115112305,0.6188526153564453
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_015,same_np,subject_span,مانی,مانی,1,1,-11.507414817810059,-11.658509254455566,-0.1510944366455078
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_016,demonstrative_np,object_marker,این,این,1,1,-7.365074157714844,-6.9719767570495605,0.3930974006652832
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_016,demonstrative_np,object_full_np,این کاردستی,این کاردستی,4,4,-4.808623790740967,-4.225094318389893,0.5835294723510742
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_016,demonstrative_np,subject_span,نرگس,نرگس,2,2,-4.573884963989258,-4.55136251449585,0.022522449493408203
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_017,same_np,object_marker,همان,همان,1,1,-9.839898109436035,-9.225245475769043,0.6146526336669922
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_017,same_np,object_full_np,همان سوپ,همان سوپ,2,2,-10.086523056030273,-9.992900848388672,0.09362220764160156
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_017,same_np,subject_span,هانیه,هانیه,2,2,-5.061287879943848,-5.020904064178467,0.04038381576538086
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_018,demonstrative_np,object_marker,این,این,1,1,-6.595717906951904,-6.699577808380127,-0.10385990142822266
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_018,demonstrative_np,object_full_np,این کیک,این کیک,3,3,-4.769578456878662,-4.593768119812012,0.1758103370666504
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_018,demonstrative_np,subject_span,وحید,وحید,2,2,-3.135199785232544,-3.1403799057006836,-0.0051801204681396484
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_019,same_np,object_marker,همان,همان,1,1,-16.49853515625,-13.92501163482666,2.57352352142334
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_019,same_np,object_full_np,همان نان,همان نان,2,2,-15.485650062561035,-13.569003105163574,1.916646957397461
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_019,same_np,subject_span,یاسمن,یاسمن,3,3,-2.099055767059326,-2.034911870956421,0.06414389610290527
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_020,demonstrative_np,object_marker,این,این,1,1,-7.643265247344971,-7.657809734344482,-0.014544486999511719
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_020,demonstrative_np,object_full_np,این خوراک سبزی,این خوراک سبزی,4,4,-4.723400115966797,-4.787809371948242,-0.06440925598144531
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_020,demonstrative_np,subject_span,امیر,امیر,1,1,-7.080765247344971,-6.564059734344482,0.5167055130004883
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_021,same_np,object_marker,همان,همان,1,1,-20.717960357666016,-14.901519775390625,5.816440582275391
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_021,same_np,object_full_np,همان گل رز,همان گل رز,3,3,-10.597065925598145,-8.520612716674805,2.07645320892334
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_021,same_np,subject_span,بیتا,بیتا,2,2,-5.269410610198975,-4.945044040679932,0.32436656951904297
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_022,demonstrative_np,object_marker,این,این,1,1,-6.341576099395752,-6.220299243927002,0.12127685546875
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_022,demonstrative_np,object_full_np,این نهال انار,این نهال انار,5,5,-4.587527751922607,-4.399227142333984,0.18830060958862305
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_022,demonstrative_np,subject_span,پویان,پویان,2,2,-3.669989824295044,-3.5281763076782227,0.1418135166168213
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_023,same_np,object_marker,همان,همان,1,1,-17.946155548095703,-16.337873458862305,1.6082820892333984
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_023,same_np,object_full_np,همان نهال کوچک,همان نهال کوچک,4,4,-7.2492475509643555,-6.640597343444824,0.6086502075195312
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_023,same_np,subject_span,سامان,سامان,1,1,-7.758656024932861,-7.712873935699463,0.04578208923339844
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_024,demonstrative_np,object_marker,این,این,1,1,-8.05897331237793,-7.932267189025879,0.12670612335205078
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_024,demonstrative_np,object_full_np,این بذر ریحان,این بذر ریحان,5,5,-3.776963472366333,-3.7986481189727783,-0.021684646606445312
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_024,demonstrative_np,subject_span,جمیله,جمیله,2,2,-4.670714378356934,-4.980353355407715,-0.30963897705078125
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_025,same_np,object_marker,همان,همان,1,1,-15.190502166748047,-14.72075080871582,0.46975135803222656
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_025,same_np,object_full_np,همان سفره,همان سفره,3,3,-8.385990142822266,-7.704006195068359,0.6819839477539062
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_025,same_np,subject_span,حسام,حسام,2,2,-5.02726936340332,-5.098179817199707,-0.07091045379638672
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_026,demonstrative_np,object_marker,این,این,1,1,-6.4256134033203125,-6.044109344482422,0.3815040588378906
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_026,demonstrative_np,object_full_np,این سینی پذیرایی,این سینی پذیرایی,4,4,-4.884041786193848,-4.774411678314209,0.10963010787963867
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_026,demonstrative_np,subject_span,دلارام,دلارام,2,2,-4.657240390777588,-4.461828231811523,0.19541215896606445
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_027,same_np,object_marker,همان,همان,1,1,-19.453845977783203,-17.261499404907227,2.1923465728759766
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_027,same_np,object_full_np,همان ویترین,همان ویترین,3,3,-11.537699699401855,-10.769235610961914,0.7684640884399414
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_027,same_np,subject_span,رامین,رامین,2,2,-3.2836906909942627,-3.0667669773101807,0.21692371368408203
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_028,demonstrative_np,object_marker,این,این,1,1,-7.377133846282959,-6.492329120635986,0.8848047256469727
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_028,demonstrative_np,object_full_np,این میز فروش,این میز فروش,3,3,-5.940391540527344,-5.464034080505371,0.47635746002197266
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_028,demonstrative_np,subject_span,سودابه,سودابه,2,2,-5.457740783691406,-5.686365604400635,-0.22862482070922852
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_029,same_np,object_marker,همان,همان,1,1,-9.680068016052246,-9.018525123596191,0.6615428924560547
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_029,same_np,object_full_np,همان بند کفش,همان بند کفش,4,4,-5.445471286773682,-4.720656871795654,0.7248144149780273
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_029,same_np,subject_span,شکوفه,شکوفه,3,3,-4.458270072937012,-3.893855571746826,0.5644145011901855
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_030,demonstrative_np,object_marker,این,این,1,1,-11.065409660339355,-8.19461727142334,2.8707923889160156
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_030,demonstrative_np,object_full_np,این کراوات,این کراوات,3,3,-7.234825134277344,-6.019939422607422,1.2148857116699219
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_030,demonstrative_np,subject_span,فرهاد,فرهاد,2,2,-6.139335632324219,-5.832771301269531,0.3065643310546875
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_031,same_np,object_marker,همان,همان,1,1,-15.366549491882324,-14.258443832397461,1.1081056594848633
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_031,same_np,object_full_np,همان پاکت پستی,همان پاکت پستی,5,5,-5.606324672698975,-5.320646286010742,0.2856783866882324
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_031,same_np,subject_span,الهام,الهام,1,1,-14.897799491882324,-14.258443832397461,0.6393556594848633
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_032,demonstrative_np,object_marker,این,این,1,1,-9.737162590026855,-8.716246604919434,1.0209159851074219
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_032,demonstrative_np,object_full_np,این کمربند,این کمربند,3,3,-6.546313285827637,-6.011092662811279,0.5352206230163574
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_032,demonstrative_np,subject_span,هومن,هومن,2,2,-4.842159748077393,-4.927450180053711,-0.08529043197631836
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_033,same_np,object_marker,همان,همان,1,1,-11.206354141235352,-10.373751640319824,0.8326025009155273
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_033,same_np,object_full_np,همان پنجره,همان پنجره,2,2,-11.297131538391113,-10.944568634033203,0.35256290435791016
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_033,same_np,subject_span,یگانه,یگانه,2,2,-4.0629801750183105,-3.9628868103027344,0.10009336471557617
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_034,demonstrative_np,object_marker,این,این,1,1,-6.668094158172607,-6.667933464050293,0.00016069412231445312
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_034,demonstrative_np,object_full_np,این دریچه,این دریچه,4,4,-3.535033941268921,-3.341717481613159,0.19331645965576172
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_034,demonstrative_np,subject_span,آبتین,آبتین,2,2,-3.9769880771636963,-3.998749256134033,-0.021761178970336914
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_035,same_np,object_marker,همان,همان,1,1,-13.72788143157959,-12.798164367675781,0.9297170639038086
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_035,same_np,object_full_np,همان قفل,همان قفل,3,3,-7.556889533996582,-7.045953273773193,0.5109362602233887
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_035,same_np,subject_span,بهرام,بهرام,2,2,-4.681201934814453,-5.628907203674316,-0.9477052688598633
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_036,demonstrative_np,object_marker,این,این,1,1,-6.297413349151611,-6.2379255294799805,0.05948781967163086
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_036,demonstrative_np,object_full_np,این بسته کاغذی,این بسته کاغذی,4,4,-5.112807750701904,-4.812762260437012,0.3000454902648926
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_036,demonstrative_np,subject_span,پریا,پریا,2,2,-2.869135618209839,-2.874911308288574,-0.0057756900787353516
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_037,same_np,object_marker,همان,همان,1,1,-12.080841064453125,-12.090583801269531,-0.00974273681640625
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_037,same_np,object_full_np,همان آینه,همان آینه,3,3,-5.911017417907715,-5.934445381164551,-0.023427963256835938
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_037,same_np,subject_span,تینا,تینا,2,2,-4.555661678314209,-4.586681842803955,-0.031020164489746094
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_038,demonstrative_np,object_marker,این,این,1,1,-8.004789352416992,-7.892333030700684,0.1124563217163086
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_038,demonstrative_np,object_full_np,این میز کار,این میز کار,3,3,-6.723691463470459,-6.747497081756592,-0.023805618286132812
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_038,demonstrative_np,subject_span,جمشید,جمشید,2,2,-4.527891635894775,-4.690725803375244,-0.16283416748046875
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_039,same_np,object_marker,همان,همان,1,1,-15.53233528137207,-12.225892066955566,3.306443214416504
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_039,same_np,object_full_np,همان عینک,همان عینک,3,3,-8.922706604003906,-7.5611677169799805,1.3615388870239258
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_039,same_np,subject_span,حوریه,حوریه,3,3,-2.8857944011688232,-2.819455862045288,0.06633853912353516
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_040,demonstrative_np,object_marker,این,این,1,1,-8.642685890197754,-8.33533000946045,0.3073558807373047
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_040,demonstrative_np,object_full_np,این کفش چرمی,این کفش چرمی,5,5,-4.0554962158203125,-3.7999417781829834,0.2555544376373291
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_040,demonstrative_np,subject_span,داریا,داریا,2,2,-6.050356388092041,-5.874070167541504,0.1762862205505371
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_041,same_np,object_marker,همان,همان,1,1,-19.800573348999023,-17.004695892333984,2.795877456665039
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_041,same_np,object_full_np,همان دیوار,همان دیوار,2,2,-15.208126068115234,-14.181675910949707,1.0264501571655273
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_041,same_np,subject_span,رامتین,رامتین,2,2,-4.683871269226074,-4.697655200958252,-0.013783931732177734
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_042,demonstrative_np,object_marker,این,این,1,1,-8.038066864013672,-7.166516304016113,0.8715505599975586
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_042,demonstrative_np,object_full_np,این صندلی,این صندلی,3,3,-5.593523979187012,-4.610989570617676,0.9825344085693359
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_042,demonstrative_np,subject_span,سمن,سمن,2,2,-3.7779483795166016,-4.100762367248535,-0.3228139877319336
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_043,same_np,object_marker,همان,همان,1,1,-11.553342819213867,-10.18498420715332,1.3683586120605469
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_043,same_np,object_full_np,همان جعبه فلزی,همان جعبه فلزی,6,6,-3.620288372039795,-3.404330015182495,0.2159583568572998
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_043,same_np,subject_span,شهرام,شهرام,2,2,-5.29975700378418,-5.299808502197266,-5.14984130859375e-05
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_044,demonstrative_np,object_marker,این,این,1,1,-7.235739707946777,-7.72927713394165,-0.49353742599487305
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_044,demonstrative_np,object_full_np,این نرده,این نرده,3,3,-5.8390326499938965,-5.74928092956543,0.0897517204284668
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_044,demonstrative_np,subject_span,فاطمه,فاطمه,1,1,-9.266989707946777,-8.260526657104492,1.0064630508422852
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_045,same_np,object_marker,همان,همان,1,1,-11.342052459716797,-11.648597717285156,-0.3065452575683594
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_045,same_np,object_full_np,همان سالاد,همان سالاد,3,3,-5.875308036804199,-5.8264875411987305,0.04882049560546875
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_045,same_np,subject_span,کاوه,کاوه,2,2,-5.090408802032471,-4.746342182159424,0.3440666198730469
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_046,demonstrative_np,object_marker,این,این,1,1,-6.878263473510742,-6.8372955322265625,0.04096794128417969
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_046,demonstrative_np,object_full_np,این قهوه,این قهوه,3,3,-6.358628273010254,-5.603936672210693,0.7546916007995605
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_046,demonstrative_np,subject_span,لیلا,لیلا,2,2,-3.7462117671966553,-3.7713465690612793,-0.025134801864624023
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_047,same_np,object_marker,همان,همان,1,1,-9.123916625976562,-8.460126876831055,0.6637897491455078
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_047,same_np,object_full_np,همان میان وعده,همان میان وعده,3,3,-7.043669700622559,-7.116016387939453,-0.07234668731689453
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_047,same_np,subject_span,مهرداد,مهرداد,2,2,-4.4784464836120605,-4.938577175140381,-0.4601306915283203
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_048,demonstrative_np,object_marker,این,این,1,1,-6.172118663787842,-6.221687316894531,-0.04956865310668945
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_048,demonstrative_np,object_full_np,این چای,این چای,3,3,-5.469571590423584,-5.739635467529297,-0.2700638771057129
+xglm_2_9b,facebook/xglm-2.9B,yek5_1_048,demonstrative_np,subject_span,نوشین,نوشین,2,2,-3.3268518447875977,-3.1803243160247803,0.14652752876281738

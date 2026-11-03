@@ -1,0 +1,7 @@
+{
+  "model_id": "Qwen/Qwen2.5-3B",
+  "model_key": "qwen25_3b",
+  "device": "mps",
+  "n_condition_rows": 96,
+  "n_items": 48
+}

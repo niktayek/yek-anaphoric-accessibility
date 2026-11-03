@@ -1,0 +1,13 @@
+n_models=3
+non_early_peak_ci_positive_required=2
+non_early_peak_ci_positive_observed=1
+non_early_peak_ci_positive_pass=false
+peak_not_early_required=2
+peak_not_early_observed=3
+peak_not_early_pass=true
+best_non_early_positive_required=3
+best_non_early_positive_observed=1
+best_non_early_positive_pass=false
+include=false
+peak_summary_file=layerwise_peak_summary.csv
+behavior_correlations_file=layerwise_behavior_correlations.csv

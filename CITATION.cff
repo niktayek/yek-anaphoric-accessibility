@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the paper listed under preferred-citation."
+type: dataset
+title: "Persian ye(k) and English indefinite this: object-anaphoric accessibility stimuli, scores and code"
+authors:
+  - family-names: Safakar
+    given-names: Nikta Yekrang
+    affiliation: "Humboldt-Universität zu Berlin; Leibniz-Zentrum Allgemeine Sprachwissenschaft (ZAS)"
+  - family-names: Padó
+    given-names: Sebastian
+    affiliation: "University of Stuttgart"
+version: 1.0.0
+repository-code: "https://github.com/niktayek/yek-anaphoric-accessibility"
+url: "https://aclanthology.org/2026.mrl-1.14/"
+keywords:
+  - Persian
+  - indefiniteness
+  - anaphora
+  - discourse accessibility
+  - language models
+  - psycholinguistic evaluation
+preferred-citation:
+  type: conference-paper
+  title: "Testing Language Model Sensitivity to Object-Anaphoric Accessibility: Persian ye(k) and English indefinite this"
+  authors:
+    - family-names: Safakar
+      given-names: Nikta Yekrang
+    - family-names: Padó
+      given-names: Sebastian
+  collection-title: "Proceedings of the 6th Workshop on Multilingual Representation Learning (MRL 2026)"
+  publisher:
+    name: "Association for Computational Linguistics"
+  conference:
+    name: "6th Workshop on Multilingual Representation Learning (MRL 2026)"
+    city: Budapest
+    country: HU
+  year: 2026
+  month: 10
+  start: 183
+  end: 195
+  isbn: "979-8-89176-469-9"
+  url: "https://aclanthology.org/2026.mrl-1.14/"

@@ -1,0 +1,49 @@
+decoder_model_key,decoder_model_id,item_id,subject,object,verb,object_anaphor_type,object_domain,continuation_neutral,neutral_score_bare,neutral_score_yek,neutral_delta_yek_minus_bare,neutral_token_count_bare,neutral_token_count_yek
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_001,آراد,لیوان,خرید,same_np,kitchenware,کمی بعد، همه چیز آرام بود.,-3.6573665142059326,-3.604405164718628,0.05296134948730469,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_002,بهار,کوله پشتی,خرید,demonstrative_np,personal_item,کمی بعد، همه چیز آرام بود.,-4.067031383514404,-3.8162269592285156,0.25080442428588867,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_003,پارسا,چراغ مطالعه,خرید,same_np,home_object,کمی بعد، همه چیز آرام بود.,-4.039881229400635,-3.6609628200531006,0.3789184093475342,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_004,ترانه,گلدان سفالی,خرید,demonstrative_np,home_object,کمی بعد، همه چیز آرام بود.,-4.249392032623291,-3.836327314376831,0.41306471824645996,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_005,ثنا,نمونه پارچه,انتخاب کرد,same_np,material_sample,کمی بعد، همه چیز آرام بود.,-3.606449842453003,-3.435076951980591,0.1713728904724121,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_006,جواد,مدل اولیه,انتخاب کرد,demonstrative_np,design_object,کمی بعد، همه چیز آرام بود.,-3.5467822551727295,-3.473436117172241,0.07334613800048828,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_007,حنا,طرح جایگزین,انتخاب کرد,same_np,decision_object,کمی بعد، همه چیز آرام بود.,-3.558964252471924,-3.4532196521759033,0.10574460029602051,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_008,داریوش,طرح میانی,انتخاب کرد,demonstrative_np,design_object,کمی بعد، همه چیز آرام بود.,-3.586442708969116,-3.409578800201416,0.1768639087677002,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_009,رها,سبد میوه,آورد,same_np,food_container,کمی بعد، همه چیز آرام بود.,-3.467799425125122,-3.2941181659698486,0.17368125915527344,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_010,سارا,پتوی سبک,آورد,demonstrative_np,home_textile,کمی بعد، همه چیز آرام بود.,-3.503117322921753,-3.3418548107147217,0.16126251220703125,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_011,میلاد,کیف ابزار,آورد,same_np,tool,کمی بعد، همه چیز آرام بود.,-3.4336376190185547,-3.326132297515869,0.10750532150268555,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_012,فرزانه,بطری,آورد,demonstrative_np,kitchenware,کمی بعد، همه چیز آرام بود.,-3.3033077716827393,-3.2277309894561768,0.0755767822265625,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_013,کامیار,ماکت,ساخت,same_np,craft,کمی بعد، همه چیز آرام بود.,-3.8597333431243896,-3.8218865394592285,0.03784680366516113,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_014,لاله,قفسه چوبی,ساخت,demonstrative_np,furniture,کمی بعد، همه چیز آرام بود.,-3.657336473464966,-3.531219482421875,0.12611699104309082,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_015,مانی,قاب عکس,ساخت,same_np,home_object,کمی بعد، همه چیز آرام بود.,-3.80842661857605,-3.5873990058898926,0.22102761268615723,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_016,نرگس,کاردستی,ساخت,demonstrative_np,craft,کمی بعد، همه چیز آرام بود.,-3.599942922592163,-3.4607536792755127,0.1391892433166504,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_017,هانیه,سوپ,پخت,same_np,food,کمی بعد، همه چیز آرام بود.,-3.7252349853515625,-3.6496429443359375,0.075592041015625,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_018,وحید,کیک,پخت,demonstrative_np,food,کمی بعد، همه چیز آرام بود.,-4.041788101196289,-3.8054447174072266,0.2363433837890625,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_019,یاسمن,نان,پخت,same_np,food,کمی بعد، همه چیز آرام بود.,-3.678309679031372,-3.5695998668670654,0.10870981216430664,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_020,امیر,خوراک سبزی,پخت,demonstrative_np,food,کمی بعد، همه چیز آرام بود.,-4.054780006408691,-3.8845813274383545,0.17019867897033691,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_021,بیتا,گل رز,کاشت,same_np,garden,کمی بعد، همه چیز آرام بود.,-3.8059518337249756,-3.549652099609375,0.2562997341156006,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_022,پویان,نهال انار,کاشت,demonstrative_np,garden,کمی بعد، همه چیز آرام بود.,-3.8013665676116943,-3.6120922565460205,0.18927431106567383,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_023,سامان,نهال کوچک,کاشت,same_np,garden,کمی بعد، همه چیز آرام بود.,-3.656705617904663,-3.4474549293518066,0.20925068855285645,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_024,جمیله,بذر ریحان,کاشت,demonstrative_np,garden,کمی بعد، همه چیز آرام بود.,-3.8777947425842285,-3.7253754138946533,0.1524193286895752,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_025,حسام,سفره,چید,same_np,dining_item,کمی بعد، همه چیز آرام بود.,-3.8800270557403564,-3.6356003284454346,0.24442672729492188,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_026,دلارام,سینی پذیرایی,چید,demonstrative_np,dining_item,کمی بعد، همه چیز آرام بود.,-3.619209051132202,-3.3549301624298096,0.2642788887023926,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_027,رامین,ویترین,چید,same_np,store_object,کمی بعد، همه چیز آرام بود.,-3.665630340576172,-3.613821029663086,0.05180931091308594,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_028,سودابه,میز فروش,چید,demonstrative_np,setup,کمی بعد، همه چیز آرام بود.,-3.7892403602600098,-3.6086857318878174,0.18055462837219238,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_029,شکوفه,بند کفش,بست,same_np,clothing,کمی بعد، همه چیز آرام بود.,-3.8028295040130615,-3.5774998664855957,0.22532963752746582,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_030,فرهاد,کراوات,بست,demonstrative_np,clothing,کمی بعد، همه چیز آرام بود.,-3.753587484359741,-3.54460072517395,0.20898675918579102,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_031,الهام,پاکت پستی,بست,same_np,container,کمی بعد، همه چیز آرام بود.,-3.812333822250366,-3.495939016342163,0.3163948059082031,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_032,هومن,کمربند,بست,demonstrative_np,clothing,کمی بعد، همه چیز آرام بود.,-3.625009298324585,-3.5220375061035156,0.10297179222106934,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_033,یگانه,پنجره,باز کرد,same_np,home_object,کمی بعد، همه چیز آرام بود.,-3.2457237243652344,-3.2492806911468506,-0.003556966781616211,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_034,آبتین,دریچه,باز کرد,demonstrative_np,home_object,کمی بعد، همه چیز آرام بود.,-3.2377021312713623,-3.166444778442383,0.07125735282897949,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_035,بهرام,قفل,باز کرد,same_np,hardware,کمی بعد، همه چیز آرام بود.,-3.381976366043091,-3.2439255714416504,0.13805079460144043,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_036,پریا,بسته کاغذی,باز کرد,demonstrative_np,container,کمی بعد، همه چیز آرام بود.,-3.2549779415130615,-3.2009637355804443,0.05401420593261719,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_037,تینا,آینه,تمیز کرد,same_np,home_object,کمی بعد، همه چیز آرام بود.,-3.2150208950042725,-3.074444532394409,0.14057636260986328,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_038,جمشید,میز کار,تمیز کرد,demonstrative_np,furniture,کمی بعد، همه چیز آرام بود.,-3.6393325328826904,-3.4611268043518066,0.1782057285308838,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_039,حوریه,عینک,تمیز کرد,same_np,personal_item,کمی بعد، همه چیز آرام بود.,-3.3451783657073975,-3.1794724464416504,0.16570591926574707,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_040,داریا,کفش چرمی,تمیز کرد,demonstrative_np,clothing,کمی بعد، همه چیز آرام بود.,-3.2189278602600098,-3.042835235595703,0.17609262466430664,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_041,رامتین,دیوار,رنگ کرد,same_np,home_object,کمی بعد، همه چیز آرام بود.,-3.3951432704925537,-3.29963755607605,0.0955057144165039,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_042,سمن,صندلی,رنگ کرد,demonstrative_np,furniture,کمی بعد، همه چیز آرام بود.,-3.328648090362549,-3.2214691638946533,0.10717892646789551,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_043,شهرام,جعبه فلزی,رنگ کرد,same_np,container,کمی بعد، همه چیز آرام بود.,-3.49768328666687,-3.2801246643066406,0.2175586223602295,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_044,فاطمه,نرده,رنگ کرد,demonstrative_np,hardware,کمی بعد، همه چیز آرام بود.,-3.6526410579681396,-3.5010573863983154,0.15158367156982422,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_045,کاوه,سالاد,آماده کرد,same_np,food,کمی بعد، همه چیز آرام بود.,-3.4247727394104004,-3.42291259765625,0.0018601417541503906,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_046,لیلا,قهوه,آماده کرد,demonstrative_np,food,کمی بعد، همه چیز آرام بود.,-3.6327521800994873,-3.4853274822235107,0.14742469787597656,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_047,مهرداد,میان وعده,آماده کرد,same_np,food,کمی بعد، همه چیز آرام بود.,-3.3007187843322754,-3.140613079071045,0.16010570526123047,10,10
+mgpt_1_3b_persian,ai-forever/mGPT-1.3B-persian,yek5_1_048,نوشین,چای,آماده کرد,demonstrative_np,food,کمی بعد، همه چیز آرام بود.,-3.4395394325256348,-3.2556209564208984,0.18391847610473633,10,10

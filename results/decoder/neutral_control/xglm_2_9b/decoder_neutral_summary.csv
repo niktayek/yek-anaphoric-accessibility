@@ -1,0 +1,2 @@
+decoder_model_key,decoder_model_id,n,mean_delta,median_delta,ci_low,ci_high,prop_positive,min,max,token_count_bare_min,token_count_bare_max,token_count_yek_min,token_count_yek_max,token_count_mismatch_n
+xglm_2_9b,facebook/xglm-2.9B,48,0.23846012353897095,0.19904017448425293,0.1710333228111267,0.3080972135066986,0.8333333333333334,-0.17363786697387695,0.8364524841308594,8,8,8,8,0

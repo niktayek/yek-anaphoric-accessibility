@@ -1,0 +1,7 @@
+{
+  "model_id": "ai-forever/mGPT-1.3B-persian",
+  "model_key": "mgpt_1_3b_persian",
+  "device": "mps",
+  "n_condition_rows": 96,
+  "n_items": 48
+}

@@ -1,0 +1,4 @@
+target_kind,n_items_with_all_models,positive_all_models,prop_positive_all_models
+object_full_np,48,38,0.7916666666666666
+object_marker,48,32,0.6666666666666666
+subject_span,48,8,0.16666666666666666
