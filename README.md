@@ -6,6 +6,8 @@ Stimuli, item-level scores and code for
 > [Testing Language Model Sensitivity to Object-Anaphoric Accessibility: Persian ye(k) and English indefinite this](https://aclanthology.org/2026.mrl-1.14/).
 > In *Proceedings of the 6th Workshop on Multilingual Representation Learning (MRL 2026)*, pages 183–195, Budapest, Hungary. Association for Computational Linguistics.
 
+Archived release: [https://doi.org/10.5281/zenodo.23922623](https://doi.org/10.5281/zenodo.23922623)
+
 ## Contents
 
 Code, stimuli, and model outputs for the paper.
